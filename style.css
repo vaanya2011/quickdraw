@@ -1,0 +1,43 @@
+body
+{
+background-color:darkturquoise;
+}
+
+h1
+{
+  font-family:'Courier New', Courier, monospace;
+  color:rgb(43, 10, 232);
+  background-color: rgb(244, 199, 19);
+}
+
+#sketch_name
+{
+  color:rgb(180, 51, 116);
+}
+
+#show_sketch
+{
+  float:right;
+}
+
+
+p, span
+  {
+    padding-top:10px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, fantasy;
+    font-size:25px;
+    
+  }
+
+#score
+{
+  font-size:35px;
+  margin-left: 20px;
+}
+
+#time
+{
+  font-size:35px;
+  float: right;
+  margin-right: 20px;
+}
